@@ -5,6 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+*.csv
+*.xml
+
+# temporary file
+sandbox.yml
 
 # Distribution / packaging
 .Python
